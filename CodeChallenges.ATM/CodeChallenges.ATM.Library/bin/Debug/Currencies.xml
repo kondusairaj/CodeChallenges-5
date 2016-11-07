@@ -1,0 +1,5 @@
+﻿<Currencies>
+  <Denomination Order="1">1000</Denomination>
+  <Denomination Order="2">500</Denomination>
+  <Denomination Order="3">100</Denomination>
+</Currencies>

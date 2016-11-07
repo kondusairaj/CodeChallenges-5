@@ -1,0 +1,12 @@
+c:\users\maruthim\documents\visual studio 2012\Projects\CodeChallenges.ATM.Library\CodeChallenges.ATM.Library\bin\Debug\CodeChallenges.ATM.Library.dll
+c:\users\maruthim\documents\visual studio 2012\Projects\CodeChallenges.ATM.Library\CodeChallenges.ATM.Library\bin\Debug\CodeChallenges.ATM.Library.pdb
+c:\users\maruthim\documents\visual studio 2012\Projects\CodeChallenges.ATM.Library\CodeChallenges.ATM.Library\obj\Debug\CodeChallenges.ATM.Library.csprojResolveAssemblyReference.cache
+c:\users\maruthim\documents\visual studio 2012\Projects\CodeChallenges.ATM.Library\CodeChallenges.ATM.Library\obj\Debug\CodeChallenges.ATM.Library.dll
+c:\users\maruthim\documents\visual studio 2012\Projects\CodeChallenges.ATM.Library\CodeChallenges.ATM.Library\obj\Debug\CodeChallenges.ATM.Library.pdb
+c:\users\maruthim\documents\visual studio 2012\Projects\CodeChallenges.ATM.Library\CodeChallenges.ATM.Library\bin\Debug\Currencies.xml
+C:\Users\maruthim\Documents\visual studio 2012\Projects\CodeChallenges.ATM\CodeChallenges.ATM.Library\bin\Debug\Currencies.xml
+C:\Users\maruthim\Documents\visual studio 2012\Projects\CodeChallenges.ATM\CodeChallenges.ATM.Library\bin\Debug\CodeChallenges.ATM.Library.pdb
+C:\Users\maruthim\Documents\visual studio 2012\Projects\CodeChallenges.ATM\CodeChallenges.ATM.Library\obj\Debug\CodeChallenges.ATM.Library.csprojResolveAssemblyReference.cache
+C:\Users\maruthim\Documents\visual studio 2012\Projects\CodeChallenges.ATM\CodeChallenges.ATM.Library\obj\Debug\CodeChallenges.ATM.Library.pdb
+C:\Users\maruthim\Documents\visual studio 2012\Projects\CodeChallenges.ATM\CodeChallenges.ATM.Library\bin\Debug\CodeChallenges.ATM.Library.dll
+C:\Users\maruthim\Documents\visual studio 2012\Projects\CodeChallenges.ATM\CodeChallenges.ATM.Library\obj\Debug\CodeChallenges.ATM.Library.dll
